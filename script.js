@@ -1,3 +1,7 @@
+/*
+ * RomanNumeralConverter v1.0 by Louis-Gabriel
+ * https://github.com/louisgab/RomanNumeralConverter.git
+ */
 document.addEventListener('keyup', function(event) {
     var input = document.getElementById("input").value;
     if (input > 3999) {
