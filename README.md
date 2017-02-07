@@ -1,2 +1,2 @@
 # RomanNumeralConverter
-a Javascript solution to convert from numeral to roman using minimalistic html5/css3/javascript without any dependencies
+A solution to instantly convert a number into roman numeral using minimalist html5/css3/javascript without any dependency
